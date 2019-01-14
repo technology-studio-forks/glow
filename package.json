@@ -1,6 +1,6 @@
 {
   "name": "glow",
-  "version": "1.2.3",
+  "version": "1.2.3-txo",
   "description": "Make your Flow errors GLOW",
   "main": "index.js",
   "bin": {
